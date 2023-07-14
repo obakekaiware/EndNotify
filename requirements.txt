@@ -1,0 +1,4 @@
+typer
+pytest
+requests
+python-dotenv
