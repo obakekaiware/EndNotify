@@ -1,5 +1,7 @@
 # EndNotify
 
+![EndNotify](https://github.com/obakekaiware/EndNotify/assets/49265616/2616b13a-043f-4e2f-9b99-88bf9ebdbe8f)
+
 Python コードを実行し、終了したときに LINE で通知するツール。
 
 実行途中でエラーが発生した場合、エラーメッセージを通知します。
